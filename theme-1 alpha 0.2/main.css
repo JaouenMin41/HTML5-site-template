@@ -1,0 +1,30 @@
+#title {
+color: white;
+text-align: center;
+font-family: dubai;
+font-weight: bold;
+margin-bottom: 100px;
+border: 3px solid white;
+margin-left: 450px;
+margin-right: 450px;
+font-size: 45px;
+}
+
+#second-title {
+color: lightblue;
+text-align: left;
+font-family: arial;
+}
+
+#autor {
+color:gray;
+font-family: dubai;
+text-align:right;
+font-weight: bold;
+}
+
+#copyright {
+	color:yellow;
+	font-family: sans-serif;
+	text-align: right;
+}

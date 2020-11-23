@@ -1,0 +1,55 @@
+body {
+background-color: #1C1C1C;
+text-align: left;
+}
+
+#div1 {
+padding: 10px;
+ background-color: #8D4F09;
+ margin: 10px;
+ border : 1px solid white;
+}
+
+#div2 {
+background-color: #1B1139;
+padding: 5px;
+margin-right: 750px;
+padding-bottom: 10px;
+border : 1px solid white;
+}
+
+#title {
+color: white;
+text-align: center;
+font-family: dubai;
+font-weight: bold;
+margin-bottom: 100px;
+border: 3px solid white;
+margin-left: 450px;
+margin-right: 450px;
+font-size: 45px;
+}
+
+#second-title {
+color: lightblue;
+text-align: center;
+font-family: arial;
+}
+
+#poem {
+color: white;
+text-align: center;
+}
+
+#autor {
+color:gray;
+font-family: dubai;
+text-align:right;
+font-weight: bold;
+}
+
+#copyright {
+color:yellow;
+font-family: sans-serif;
+text-align: right;
+}

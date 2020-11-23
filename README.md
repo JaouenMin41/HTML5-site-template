@@ -7,5 +7,6 @@ All kind of help is welcome to the project.
 
 
 
-Credits : Daniel F.
+Credits : Daniel F
+
           Jaouen Dupont

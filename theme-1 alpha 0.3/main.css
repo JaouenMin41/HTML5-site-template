@@ -1,6 +1,7 @@
 body {
 background-color: #1C1C1C;
 text-align: left;
+color: white;
 }
 
 #div1 {
@@ -12,10 +13,40 @@ padding: 10px;
 
 #div2 {
 background-color: #1B1139;
-padding: 5px;
-margin-right: 750px;
+padding: 10px;
+margin-right: 700px;
 padding-bottom: 10px;
 border : 1px solid white;
+}
+
+#div3 
+{
+padding: 10px;
+padding-bottom:10px;
+background-color: #1B1139;
+margin-right: 700px;
+border: 1px solid white;
+margin-top: 10px
+}
+
+#div4
+{
+padding: 10px;
+padding-bottom:10px;
+background-color: #1B1139;
+margin-right: 700px;
+border: 1px solid white;
+margin-top: 10px
+}
+
+#div5
+{
+padding: 10px;
+padding-bottom:10px;
+background-color: #1B1139;
+margin-right: 700px;
+border: 1px solid white;
+margin-top: 10px
 }
 
 #title {
@@ -32,13 +63,8 @@ font-size: 45px;
 
 #second-title {
 color: lightblue;
-text-align: center;
+text-align: left;
 font-family: arial;
-}
-
-#poem {
-color: white;
-text-align: center;
 }
 
 #autor {
@@ -52,4 +78,25 @@ font-weight: bold;
 color:yellow;
 font-family: sans-serif;
 text-align: right;
+}
+
+#YouTube
+{
+color:red;
+font-family:sans-serif;
+text-align: right;
+}
+
+#Twitter
+{
+color:lightblue;
+font-family: sans-serif;
+text-align: right;
+}
+
+#GitHub
+{
+color:darkgrey;*
+font-family: sans-serif;
+text-align:right;
 }
